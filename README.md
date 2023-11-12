@@ -8,6 +8,6 @@ More formally, SnowBees is a no-code API Catalog Management tool for Snowflake b
 1) Download "snowbee_sis.py" and "snow.png" from the GitHub repository.
 2) Create a new Streamlit app on your Snowflake account
 3) Paste the code into your new app.
-4) Upload the "snow.png" in the Streamlit application stage.
+4) Upload the "logo_snowbees.png" in the Streamlit application stage.
 
 NOTE: SnowBees is not intended to be a ready-to-use artifact but it merely provides a foundation on available features that can be used.

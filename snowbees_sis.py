@@ -71,7 +71,7 @@ if menu_option == "Create New Bee":
     
     cols=st.columns(3)
     with cols[0]:
-        apiTypeValue = st.selectbox("API Type?", ["GET","POST"],key=f"apiType")
+        apiTypeValue = st.selectbox("API Method?", ["GET","POST"],key=f"apiType")
     with cols[1]:
         apiHasSecret = st.selectbox("API Secret?", ['No','Yes'],key=f"apiSecret")
     with cols[2]:
